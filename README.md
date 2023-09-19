@@ -2,9 +2,7 @@
 
 A simple web-based circular progress bar with interactive percentage control. This project demonstrates the creation of a circular progress bar using HTML, CSS, and JavaScript.
 
-## Demo
-
-You can see a live demo of the Circular Progress Bar here: [Demo Link](https://yourusername.github.io/circular-progress-bar)
+![Project Screenshot](screenshot.png)
 
 ## Features
 
@@ -18,7 +16,7 @@ You can see a live demo of the Circular Progress Bar here: [Demo Link](https://y
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/circular-progress-bar.git
+   git clone https://github.com/cognisolver/circular-progress-bar.git
    ```
 
 2. Open the `index.html` file in your web browser to view the project locally.
