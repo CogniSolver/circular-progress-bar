@@ -2,6 +2,7 @@
 
 A simple web-based circular progress bar with interactive percentage control. This project demonstrates the creation of a circular progress bar using HTML, CSS, and JavaScript.
 
+## Demo : ![Launch Project](https://cognisolver.github.io/circular-progress-bar/)
 ![Project Screenshot](screenshot.png)
 
 ## Features
